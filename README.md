@@ -5,5 +5,5 @@ Version: 1.12.2
 
 The Remake adds:
  - New join message
- - Welcome message
+ - A new code
  - New config settings
