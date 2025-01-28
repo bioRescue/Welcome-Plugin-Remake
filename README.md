@@ -2,6 +2,7 @@
 This is remake of my old "Welcome plugin"
 
 Version: 1.12.2
+Plugin version: 1.0
 
 # Changes
 The Remake adds:
