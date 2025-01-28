@@ -2,10 +2,10 @@
 This is remake of my old "Welcome plugin"
 
 Version: 1.12.2
-Plugin version: 1.0
+Last Plugin version: 1.0
 
 # Changes
-The Remake adds:
+The Remake adds (Changes of version 1.0):
  - New join message
  - A new code
  - New config settings
